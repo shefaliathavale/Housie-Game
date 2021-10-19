@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Used by ShowNumbers.java and ShowNos.java-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollview"
+        android:layout_gravity="center_horizontal">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/allnumbers"
+        android:textSize="26dp"
+        android:padding="50dp"
+        android:layout_gravity="center_horizontal" />
+    </ScrollView>
+
+</RelativeLayout>

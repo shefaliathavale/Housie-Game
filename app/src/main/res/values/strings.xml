@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tambola</string>
+    <string name="pick_no">Pick a Number</string>
+    <string name="show_list">Show List</string>
+    <string name="play_local">Play Locally</string>
+    <string name="join_room">Join Room</string>
+    <string name="create_room">Create Room</string>
+</resources>
